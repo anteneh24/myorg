@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home_action"
+            android:title="@string/home"
+            android:textColor="@android:color/white"/>
+        <item
+            android:id="@+id/Catagorie"
+            android:icon="@drawable/ic_catagorie_action"
+            android:title="@string/categories"
+            android:textColor="@android:color/white"/>
+        <item
+            android:id="@+id/businesses"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/business"
+            android:textColor="@android:color/white"
+            />
+        <item
+            android:id="@+id/favorites"
+
+            android:title="@string/favourite" />
+    </group>
+
+    <item android:title="tools">
+        <menu>
+            <item
+                android:id="@+id/Settings"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/settings"
+                android:textColor="@android:color/white"/>
+
+        </menu>
+    </item>
+    <item android:title="other">
+        <menu>
+            <item
+                android:id="@+id/cridet"
+                android:title="Credits to"
+                android:textColor="@android:color/white"/>
+            <item
+                android:id="@+id/Contact_Eshi"
+                android:icon="@android:drawable/ic_menu_help"
+                android:title="@string/contact_eshi"
+                android:textColor="@android:color/white"/>
+        </menu>
+    </item>
+</menu>

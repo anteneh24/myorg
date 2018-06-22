@@ -1,0 +1,12 @@
+<resources>
+    <string name="language">አማር</string>
+    <string name="home">ቤት</string>
+    <string name="categories">ክፍል</string>
+    <string name="business">የንግድ ስራ</string>
+    <string name="favourite">ምርጫ</string>
+    <string name="favourite_branch">ቅርንቻፎች ምርጫ</string>
+    <string name="settings">መቼት</string>
+    <string name="contact_eshi">መገና</string>
+    <string name="change">አማር ወደ english</string>
+    <string name="search">ፍልግ</string>
+</resources>

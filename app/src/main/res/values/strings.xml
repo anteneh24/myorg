@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MyOrg</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="language">English</string>
+    <string name="change">from english to amharic</string>
+    <string name="home">Home</string>
+    <string name="categories">Categories</string>
+    <string name="business">Business</string>
+    <string name="favourite">Favourite</string>
+    <string name="favourite_branch">Branch Favourite</string>
+    <string name="settings">Settings</string>
+    <string name="cridet">cridet</string>
+    <string name="contact_eshi">Contact Eshi</string>
+    <string name="update">update</string>
+    <string name="upload">upload</string>
+    <string name="search">search</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+ <PreferenceCategory
+     android:title="General Settings"
+     >
+  <CheckBoxPreference
+      android:title="@string/language"
+      android:key="amh_values"
+      android:summary="@string/change"
+      />
+
+ </PreferenceCategory>
+</PreferenceScreen>
